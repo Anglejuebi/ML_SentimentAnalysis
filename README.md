@@ -1,13 +1,14 @@
 # 此为本人本科毕业设计，仅供大家参考
-使用SKLearn包完成，数据集[weibo_senti_100k.csv](weibo_senti_100k.csv)，来自 https://github.com/SophonPlus/ChineseNlpCorpus/tree/master/datasets/weibo_senti_100k
-，新浪公司在Github上开源的其旗下新浪微博公司匿名用户评论文本数据集“weibo_senti_100k.csv”并已经对每 条评论进行了情感标注（积极、消极）。数据集共119989条用户评论数据，其中59994
-条情感标注为“积极的用户评论，和59995条情感标注为“消极”的用户评论。 
+### 使用SKLearn，WordCloud库完成
+
 # 文件说明
 ### .dot文件为决策树可视化文件，例如：Decision_Tree_BOW.dot
 
 ### .pkl文件为模型文件，例如：Decision_Tree_BOW.pkl
 
 ### 与模型文件同名的.py文件为该模型训练代码，例如：Decision_Tree_BOW.py
+
+### 训练数据集[weibo_senti_100k.csv](weibo_senti_100k.csv)，来自 https://github.com/SophonPlus/ChineseNlpCorpus/tree/master/datasets/weibo_senti_100k，新浪公司在Github上开源的其旗下新浪微博公司匿名用户评论文本数据集“weibo_senti_100k.csv”并已经对每 条评论进行了情感标注（积极、消极）。数据集共119989条用户评论数据，其中59994条情感标注为“积极的用户评论，和59995条情感标注为“消极”的用户评论。 
 
 ### test开头的.csv为验证数据集，使用[spider.py](spider.py)爬取，输入凤凰新闻链接，即可自动创建.csv文件
 
