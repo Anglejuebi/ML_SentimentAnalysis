@@ -1,7 +1,6 @@
 # 此为本人本科毕业设计，仅供大家参考
 ### 使用SKLearn，WordCloud库完成
-### 具体演示视频可以看我发在bilibili上的视频
-### 【[毕设] 基于机器学习的新闻评论情感分析方法研究】 https://www.bilibili.com/video/BV1j142197rt/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3
+### 具体演示视频可以看我发在bilibili上的视频 【[毕设] 基于机器学习的新闻评论情感分析方法研究】 https://www.bilibili.com/video/BV1j142197rt/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3
 
 # 文件说明
 ### .dot文件为决策树可视化文件，例如：Decision_Tree_BOW.dot
