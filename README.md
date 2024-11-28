@@ -3,6 +3,21 @@
 ### 具体演示视频可以看我发在bilibili上的视频 P1 大概五分半开始的演示
 ### 【[毕设] 基于机器学习的新闻评论情感分析方法研究】 https://www.bilibili.com/video/BV1j142197rt/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3
 
+# 环境配置
+### 这里以conda创建虚拟环境为例，如果你是使用conda创建虚拟环境，就从这里开始
+```bash
+conda create -n ML python=3.12 #这里的ML可以是自定义的环境名
+conda activate ML
+```
+### 如果你使用的不是conda，就从这里开始，如果你使用的是conda，那就继续
+### 确保你现在在项目根目录
+```bash
+pip install -r requirements.txt
+```
+### 如果出现网络问题，可以尝试使用镜像
+```bash
+pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+```
 # 文件说明
 ### .dot文件为决策树可视化文件，例如：[Decision_Tree_BOW.dot](Decision_Tree_BOW.dot)
 
@@ -22,10 +37,10 @@
 
 
 # 学习路径
-参考B站【黑马程序员Python教程，4天快速入门Python数据挖掘，系统精讲+实战案例】 https://www.bilibili.com/video/BV1xt411v7z9/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3
+参考B站 [黑马程序员Python教程，4天快速入门Python数据挖掘，系统精讲+实战案例](https://www.bilibili.com/video/BV1xt411v7z9/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3)
 
-参考B站【黑马程序员3天快速入门python机器学习】 https://www.bilibili.com/video/BV1nt411r7tj/?share_source=copy_web
+参考B站 [黑马程序员3天快速入门python机器学习](https://www.bilibili.com/video/BV1nt411r7tj/?share_source=copy_web)
 
-参考B站【尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）】 https://www.bilibili.com/video/BV1Db4y1m7Ho/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3
+参考B站 [尚硅谷Python爬虫教程小白零基础速通（含python基础+爬虫案例）](https://www.bilibili.com/video/BV1Db4y1m7Ho/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3)
 
 和ChatGPT的辅助完成，仅供大家参考
