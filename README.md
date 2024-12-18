@@ -3,7 +3,7 @@
 ### 具体演示视频可以看我发在bilibili上的视频 P1 大概五分半开始的演示
 ### [【[毕设] 基于机器学习的新闻评论情感分析方法研究】](https://www.bilibili.com/video/BV1j142197rt/?share_source=copy_web&vd_source=35c49b46a86899e58b3f6414dd834db3)
 ## ⚠⚠⚠ NEWS!
-### 新增论文 [基于机器学习的新闻评论情感分析方法研究-论文定稿.pdf](%BB%F9%D3%DA%BB%FA%C6%F7%D1%A7%CF%B0%B5%C4%D0%C2%CE%C5%C6%C0%C2%DB%C7%E9%B8%D0%B7%D6%CE%F6%B7%BD%B7%A8%D1%D0%BE%BF-%C2%DB%CE%C4%B6%A8%B8%E5.pdf)
+### 新增论文 [基于机器学习的新闻评论情感分析方法研究-论文定稿.pdf](基于机器学习的新闻评论情感分析方法研究-论文定稿.pdf)
 
 # 环境配置
 ### 这里以conda创建虚拟环境为例，如果你是使用conda创建虚拟环境，就从这里开始
